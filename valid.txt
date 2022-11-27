@@ -1,0 +1,13 @@
+\bapi.*\b
+\blocales.*\b
+\badmin.*\b
+\bauth.*\b
+\bconsole.*\b
+\bandroid.*\b
+\bfavicon.*\b
+\bassets.*\b
+\binstall.*\b
+\bservers.*\b
+\barchive.*\b
+\btransfer.*\b
+\bsftp.*\b
